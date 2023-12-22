@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Михаил\Desktop\GIT\mp2-lab5-polinoms\sln\CMakeFiles\a55e31a23d91a39fd801fd4845166d7c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3B2F16B7-ACAD-37D5-A46A-C29A1395E058}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

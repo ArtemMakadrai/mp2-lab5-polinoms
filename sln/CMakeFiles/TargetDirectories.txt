@@ -1,0 +1,7 @@
+C:/Users/Михаил/Desktop/GIT/mp2-lab5-polinoms/sln/CMakeFiles/ALL_BUILD.dir
+C:/Users/Михаил/Desktop/GIT/mp2-lab5-polinoms/sln/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Михаил/Desktop/GIT/mp2-lab5-polinoms/sln/gtest/CMakeFiles/gtest.dir
+C:/Users/Михаил/Desktop/GIT/mp2-lab5-polinoms/sln/listlib/CMakeFiles/listlib.dir
+C:/Users/Михаил/Desktop/GIT/mp2-lab5-polinoms/sln/polinom/CMakeFiles/polinom.dir
+C:/Users/Михаил/Desktop/GIT/mp2-lab5-polinoms/sln/polinomlib/CMakeFiles/polinomlib.dir
+C:/Users/Михаил/Desktop/GIT/mp2-lab5-polinoms/sln/polinomtest/CMakeFiles/polinomtest.dir
